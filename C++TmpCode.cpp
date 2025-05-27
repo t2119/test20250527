@@ -1,3 +1,4 @@
+```cpp
 #include<iostream>
 #include<cassert>
 using namespace std;
@@ -7,3 +8,4 @@ int main()
     cin.tie(nullptr);
     cout<<"Hello"<<endl;
 }
+```
